@@ -1,0 +1,22 @@
+{
+    "name": "Talox Packages",
+    "author": "arne@vanderlei.be",
+    "packages": {
+      "com.talox.physboneshelper": {
+        "versions": {
+          "0.0.1": {
+            "name":"com.talox.physboneshelper",
+            "version": "0.0.1",
+            "displayName": "Phys Bones Helper",
+            "description": "Helps with placing phys bones.",
+            "unity" : "2019.4",
+            "gitDependencies" : {
+                "com.vrchat.base" : "https://github.com/vrchat/com.vrchat.base.git#3.2.1",
+                "com.vrchat.avatars" : "https://github.com/vrchat/com.vrchat.avatars.git#3.3.0"
+            },
+            "url" : "https://github.com/Arne-van-der-Lei/PhysBonesHelper.git"
+          }
+        }
+      }
+    }
+  }
